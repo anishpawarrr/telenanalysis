@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "datatele-366319",
+  "private_key_id": "0d5fecc26b4870b7d547a3e21e3d8c8dce7a46c7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDTWtrkBjWcfWgJ\ns97BZrgSmZK7f8+9CCkx5vp/SSklDE2KsVxfCaD/4S1FSg3nOyCqfUNHP9s36GWo\naRZ/rC+JBl9v+HBOlFZfuSvO7eDTiad3Xe3ICeaJvLchY3nJdvLkO5+1MqXfEP2Y\nziS6oD94In9qhJAmNwDtUQ3WMyzM+fk276UFZcAJKPD2SwIo3Lt+mGKz5oHSCRaS\nJSg5c2dsnnqC+cCCjOjlMK1qLAFMSPygN7LKwPpsCAX/8EYmTsU9GVuaHBt8fVuc\nscmY9Dci3pFw6D+T0juwc+u2teHRxTl9B24LhrakS2eFdKDAceo0X3qx+l6zDLRI\nEIPSIsmfAgMBAAECggEAU9j98KtT9na74OmGTCSjjuF1GERu1hfYO+9d3kRYedWl\nJ4oQUrW/tPOQoaXs2RiYb3qNR8VaAxaDyemS3uig3RP1pbaiW1I25/fOnOO7J0C7\nerv9OrhOyMLgxfKwXI//cTMEO37R1ipn6QiTAqTTOSY6dTgM9dQpXnyi6CDaO6CQ\n6ocZxfyrEYD1+ZWU5UtFKYH8cWHPNSZFbY/E+AKprYkZnjQvyuSMUaa+MIsNyqxB\ndmDHc4WQQPCe75frcxf4Hf+xDSqpR/Tejtf3x2i8zPMI9Hyz8gDCPLLXzb9Q+xOK\nfJijwb6xIF+tAjv+J3xSX7ZfIT1e8f1lju5bkk6isQKBgQD3KVccgxj6vrYXyUNn\n/k18m4TQ4QrZNZxvb/Ia3Jvlj8bUKdYaaslMC2CXKZXhuiTSjx9j9oe5yGWYrVSh\nUGW4CtsOjR0jBarls4kL8EWB6sauvZc9nnWhzqKv6fSyqfSG3CDBwyviExNfP0i1\nFB3KNmTNJgUOTYaqWiM+kvyMMQKBgQDa6bhzvf+z6k3AoOahxhX5PbhtbEvJtHqw\nJQc+2kDfAxU1JtJJ2z7A/+1rtfeajy6V2TRpO+LDsalt0+HNt6xMKzrPWUxRq71j\np0+8cG4dIrVrCuSne7kQ1M35dEs8zvx5V1U24sVFRJJsQ71QE5elzHRhWYU2LBYk\n++KF737OzwKBgQDCrBILyApNvRaph4GLEFax1cB30Tj9Ome7sh2sIKS93E/L3iPf\n7MoeFjv+8+c0wqusGMSttIjUwM2cwrEM2ck0e4BsZqNTaWxgvdcsyxPEL0pMadIM\n25llV9711b1BV/Hcotc+Jl6TE1lHxQ2canrIQa2Fk/OZf2CZHqPx7k3ykQKBgQDN\npuk4GlLgMwnuH3nqmgtEhT3/1c/w4lKrrW18F07/8oZ200yUQ5pVd1gUavL7yOzr\nqww4nCCw1PMlEPq85oK/X5E0/1/aDauytZgLn9diGZwyvh4GVQ2LiU8ivKR9sLmw\nSGHuWOUX6I5hlNWBJ5a8FDF0zsN9G7eF8Pdh+Za4MwKBgQCUpdhGTNlabUvN8r/j\nh/jyytUYTQTLFZLQ8CbeuIbNoGT+apW4gn+wV8hglMCbkSVnaGa1pJ5buZ2Smue9\nPK550gyrXfxKtt/22aiwWuR0xuiLyUrWBDs21laQ6WSa8v27hg5YLMslDCZ4pspi\n9NgJ/aydgxOASAip5By/8CKlHw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "teletest@datatele-366319.iam.gserviceaccount.com",
+  "client_id": "103433990397594350624",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teletest%40datatele-366319.iam.gserviceaccount.com"
+}
